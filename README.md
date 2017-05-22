@@ -1,6 +1,6 @@
 # WilsonWithPDI
 
-Funcionamento do Wilson: https://www.youtube.com/watch?v=UVNc_swBKoU
+Funcionamento do Wilson: https://www.youtube.com/watch?v=ZD0B0An2fD0
 
 Conjunto de jobs e transformações criados com o PDI, que possibilita a execução de tarefas via Telegram.
 
@@ -63,7 +63,7 @@ OBS.: O Job é ciclico, não precisa configurar repetições no agendamendo. Uma
 Link: Como executar um .kjb http://wiki.pentaho.com/display/EAI/Kitchen+User+Documentation#KitchenUserDocumentation-Runajobfromfile
 
 
-- Também fiz um vídeo mostrando o processo de criação do Bot no Telegram: https://www.youtube.com/watch?v=ZD0B0An2fD0
+- Também fiz um vídeo mostrando o processo de criação do Bot no Telegram: https://www.youtube.com/watch?v=UVNc_swBKoU
 
 - No Projeto existe um ppt chamado Wilson_apresentação, eu o utilizo para apresentar o Wilson.
 
