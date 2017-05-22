@@ -19,7 +19,7 @@ Precisamos ter a JDK compativél com a versão do PDI.
 Os Jobs e Transformações foram feitas com a versão 6 do Pentaho Data Integrator, porém muitos testes foram executados com a versão 7 e não encontrei falhas na execução.
 
 Link para download do PDI: https://sourceforge.net/projects/pentaho/files/Data%20Integration/
-Link para Donwload JDK: preciso colocar?
+<br />Link para Donwload JDK: preciso colocar?
 
 ### Depois de baixar / Configurar...
 
@@ -56,14 +56,16 @@ email_notification;<br />
 telegram_bot_token;<br />
 telegram_bot_id_client.<br />
 *Informações do botTelegram para envio de notificações.
-<Fazer vídeo explicando como criar e obter tokens> 
-
 
 Depois de Ajustar os arquivos de configurações, crie um executavel (.sh/.exe) para rodar o "job_principal.kjb" e agende a execução em seu servidor. 
 OBS.: O Job é ciclico, não precisa configurar repetições no agendamendo. Uma executado, ele só para matando o processo ou caso ocorra algum erro.
 
 Link: Como executar um .kjb http://wiki.pentaho.com/display/EAI/Kitchen+User+Documentation#KitchenUserDocumentation-Runajobfromfile
 
+
+- Também fiz um vídeo mostrando o processo de criação do Bot no Telegram: https://www.youtube.com/watch?v=ZD0B0An2fD0
+
+- No Projeto existe um ppt chamado Wilson_apresentação, eu o utilizo para apresentar o Wilson.
 
 ### SubETLS / Comandos
 
