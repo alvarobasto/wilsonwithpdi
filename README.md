@@ -65,7 +65,7 @@ Link: Como executar um .kjb http://wiki.pentaho.com/display/EAI/Kitchen+User+Doc
 
 - Também fiz um vídeo mostrando o processo de criação do Bot no Telegram: https://www.youtube.com/watch?v=UVNc_swBKoU
 
-- No Projeto existe um ppt chamado Wilson_apresentação, eu o utilizo para apresentar o Wilson.
+- No Projeto existe um pdf chamado Wilson, eu o utilizo para apresentar o Wilson.
 
 ### SubETLS / Comandos
 
