@@ -1,4 +1,7 @@
 # WilsonWithPDI
+
+Funcionamento do Wilson: https://www.youtube.com/watch?v=UVNc_swBKoU
+
 Conjunto de jobs e transformações criados com o PDI, que possibilita a execução de tarefas via Telegram.
 
 A motivação central desse projeto é automatizar algumas tarefas básicas de Administração do ambiente Pentaho.
